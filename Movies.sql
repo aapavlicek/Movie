@@ -43,7 +43,7 @@ order by `World Sales (in $)` desc -- Order by highest world sales
 	-- It seems that Universal Pictures also has a 2 hour runtime, but the difference is the release date is around June and May. 
 
 
--- Focusing on Total Sales
+-- This is experimental code
 select 
 Title,
 Distributor,
